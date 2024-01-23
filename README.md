@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm JulianCKelly</h1>
+<h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">Data Scientist, Data Analyst and ML Data Engineer</h3>
 
 - 🔭 I’m currently working on **Spotify recommendation system using python**
