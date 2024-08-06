@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">Data Scientist, Data Analyst and ML Data Engineer</h3>
 
-- 🔭 I’m currently working on **Spotify recommendation system using python**
+- 🔭 I’m currently working on **Amazon Web Sservices Data certification and Machine Learning certification**
 
-- 👯 I’m looking to collaborate on **New projects**
+- 👯 I’m always looking to collaborate on **all things data and backend related**
 
 - 📫 How to reach me **juliancharlankelly@gmail.com**
 
