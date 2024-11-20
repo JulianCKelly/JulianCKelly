@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **GCP Machine Learning certification** via **Pluralsight**
 
+- 🤓 I love keeping my skills sharp and growing with **Udemy**! 
+
 - 👯 I’m always looking to collaborate on **all things data and backend related**
 
 - 📫 How to reach me **juliancharlankelly@gmail.com**
