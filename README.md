@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Julian</h1>
 <h3 align="center">Data Scientist, Data Analyst and ML Engineer</h3>
 
-- 🔭 I’m currently working on **GCP Machine Learning certification** via **Pluralsight**
-
 - 🤓 I love keeping my skills sharp and growing with **Udemy**! 
 
 - 👯 I’m always looking to collaborate on **all things data and backend related**
