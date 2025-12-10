@@ -4,7 +4,7 @@ Los Angeles, CA
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m a data engineer and analytics engineer focused on building **production-minded data systems**, **end-to-end ML pipelines**, and **analytics workflows** that solve real problems. My background bridges healthcare operations and machine learning, allowing me to design solutions that are technically sound and practically impactful.
 
@@ -19,7 +19,7 @@ Current areas of focus:
 
 ---
 
-## 🧠 Core Skills
+## Core Skills
 
 **Data Engineering & Analytics Engineering**  
 - Python, SQL, ETL/ELT workflows, data modeling  
@@ -40,7 +40,7 @@ Current areas of focus:
 
 ---
 
-## 🔥 Featured Project
+## Featured Project
 
 ### 🩺 Healthcare Analytics — End-to-End Diabetes Risk Prediction Pipeline  
 A modular analytics engineering workflow built to simulate a real-world healthcare ML system.
@@ -57,23 +57,23 @@ https://github.com/JulianCKelly/healthcare-analytics
 
 ---
 
-## 📦 Additional Projects
+## Additional Projects
 
-### 🌬️ Air Quality Cloud Dashboard (Flask + OpenAQ API)  
+### Air Quality Cloud Dashboard (Flask + OpenAQ API)  
 A Flask web app providing real-time PM2.5 data from OpenAQ with persistent storage and refresh logic.  
 Repo: https://github.com/JulianCKelly/Air_Quality_in_the_Cloud
 
-### 🗄️ MongoDB vs PostgreSQL Benchmarking  
+### MongoDB vs PostgreSQL Benchmarking  
 Explores performance differences, indexing, and query strategies across NoSQL and relational paradigms.  
 Repo: https://github.com/JulianCKelly/MongoDB_vs_PostgreSQL
 
-### 🧪 SQL Portfolio — Northwind Queries  
+### SQL Portfolio — Northwind Queries  
 Structured SQL exercises demonstrating joins, aggregations, CTEs, and analytical reasoning.  
 Repo: https://github.com/JulianCKelly/Northwind
 
 ---
 
-## 📚 Certifications (In Progress)
+## Certifications (In Progress)
 
 - Google Advanced Data Analytics  
 - IBM Data Engineering  
@@ -81,7 +81,7 @@ Repo: https://github.com/JulianCKelly/Northwind
 
 ---
 
-## 🎯 What I’m Working Toward
+## What I’m Working Toward
 
 I’m pursuing roles in:
 
@@ -93,7 +93,7 @@ I want to contribute to teams building **data-driven healthcare solutions, cloud
 
 ---
 
-## 📫 Contact
+## Contact
 
 **Location:** Los Angeles, CA  
 **LinkedIn:** https://www.linkedin.com/in/juliancharlankelly/
