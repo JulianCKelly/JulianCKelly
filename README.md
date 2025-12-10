@@ -1,18 +1,99 @@
-<h1 align="center">Hi 👋, I'm Julian</h1>
-<h3 align="center">Data Scientist, Data Analyst and ML Engineer</h3>
+# Julian Charlan Kelly  
+### Data Engineer • Analytics Engineer • ML Practitioner  
+Los Angeles, CA  
 
-- 🤓 I love keeping my skills sharp and growing with **Udemy**! 
+---
 
-- 👯 I’m always looking to collaborate on **all things data and backend related**
+## 🚀 About Me
 
-- 📫 How to reach me **juliancharlankelly@gmail.com**
+I’m a data engineer and analytics engineer focused on building **production-minded data systems**, **end-to-end ML pipelines**, and **analytics workflows** that solve real problems. My background bridges healthcare operations and machine learning, allowing me to design solutions that are technically sound and practically impactful.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/juliancharlankelly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juliancharlankelly/" height="30" width="40" /></a>
-</p>
+I value clarity, reproducibility, and engineering discipline. My goal is to deliver work that feels intentionally crafted and *mid-level*.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+Current areas of focus:
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianckelly&show_icons=true&locale=en&layout=compact" alt="julianckelly" /></p>
+- Modular, production-style data pipelines  
+- Healthcare ML with emphasis on **recall and clinical safety**  
+- SQL + Python analytics engineering patterns  
+- Strengthening my technical stack through advanced certifications  
+
+---
+
+## 🧠 Core Skills
+
+**Data Engineering & Analytics Engineering**  
+- Python, SQL, ETL/ELT workflows, data modeling  
+- PostgreSQL, SQLite, MongoDB, BigQuery  
+- Pipeline architecture, reproducible project structures  
+- CLI tools, Flask APIs, joblib model persistence  
+
+**Machine Learning**  
+- Supervised ML (classification, risk prediction)  
+- Hyperparameter tuning (GridSearchCV)  
+- Evaluation: AUC, recall, precision/recall prioritization  
+- Visualization + interpretability (feature importance, thresholding)
+
+**Visualization & Reporting**  
+- Matplotlib, Seaborn  
+- Tableau  
+- Technical writing and structured documentation  
+
+---
+
+## 🔥 Featured Project
+
+### 🩺 Healthcare Analytics — End-to-End Diabetes Risk Prediction Pipeline  
+A modular analytics engineering workflow built to simulate a real-world healthcare ML system.
+
+**Highlights:**
+- Full pipeline: data ingestion → cleaning → modeling → evaluation  
+- Recall-optimized RandomForest model (clinical safety focused)  
+- `main.py` CLI for training and prediction  
+- Saved model artifacts, standardized reports, and visualizations  
+- Professional repo structure (src/, data/, models/, reports/)  
+
+**Repository:**  
+https://github.com/JulianCKelly/healthcare-analytics
+
+---
+
+## 📦 Additional Projects
+
+### 🌬️ Air Quality Cloud Dashboard (Flask + OpenAQ API)  
+A Flask web app providing real-time PM2.5 data from OpenAQ with persistent storage and refresh logic.  
+Repo: https://github.com/JulianCKelly/Air_Quality_in_the_Cloud
+
+### 🗄️ MongoDB vs PostgreSQL Benchmarking  
+Explores performance differences, indexing, and query strategies across NoSQL and relational paradigms.  
+Repo: https://github.com/JulianCKelly/MongoDB_vs_PostgreSQL
+
+### 🧪 SQL Portfolio — Northwind Queries  
+Structured SQL exercises demonstrating joins, aggregations, CTEs, and analytical reasoning.  
+Repo: https://github.com/JulianCKelly/Northwind
+
+---
+
+## 📚 Certifications (In Progress)
+
+- Google Advanced Data Analytics  
+- IBM Data Engineering  
+- Tableau Data Analyst  
+
+---
+
+## 🎯 What I’m Working Toward
+
+I’m pursuing roles in:
+
+- Analytics Engineering  
+- Data Engineering  
+- ML Engineering (applied / pipeline-focused)
+
+I want to contribute to teams building **data-driven healthcare solutions, cloud analytics pipelines, or ML-powered products** while continuing to grow my engineering depth.
+
+---
+
+## 📫 Contact
+
+**Location:** Los Angeles, CA  
+**LinkedIn:** https://www.linkedin.com/in/juliancharlankelly/
