@@ -42,7 +42,7 @@ Current areas of focus:
 
 ## Featured Project
 
-### 🩺 Healthcare Analytics — End-to-End Diabetes Risk Prediction Pipeline  
+### Healthcare Analytics — End-to-End Diabetes Risk Prediction Pipeline  
 A modular analytics engineering workflow built to simulate a real-world healthcare ML system.
 
 **Highlights:**
