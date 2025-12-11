@@ -61,11 +61,7 @@ https://github.com/JulianCKelly/healthcare-analytics
 
 ### Air Quality Cloud Dashboard (Flask + OpenAQ API)  
 A Flask web app providing real-time PM2.5 data from OpenAQ with persistent storage and refresh logic.  
-Repo: https://github.com/JulianCKelly/Air_Quality_in_the_Cloud
-
-### MongoDB vs PostgreSQL Benchmarking  
-Explores performance differences, indexing, and query strategies across NoSQL and relational paradigms.  
-Repo: https://github.com/JulianCKelly/MongoDB_vs_PostgreSQL
+Repo: https://github.com/JulianCKelly/air-quality-cloud-app
 
 ### SQL Portfolio — Northwind Queries  
 Structured SQL exercises demonstrating joins, aggregations, CTEs, and analytical reasoning.  
