@@ -6,7 +6,7 @@ Los Angeles, CA
 
 ## About Me
 
-I’m an Analytics Engineer / Data Engineer building analytics-ready healthcare datasets and automation-first SQL/Python pipelines. My work focuses on ETL/ELT workflows, data modeling, and data quality practices that support reliable reporting, decision-making, and downstream analytics.
+Analytics Engineer / Data Engineer building analytics-ready healthcare datasets and automation-first SQL/Python pipelines.
 
 Current areas of focus:
 
