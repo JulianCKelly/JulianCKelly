@@ -1,14 +1,12 @@
 # Julian Charlan Kelly  
-### Data Engineer • Analytics Engineer • ML Practitioner  
+### Analytics Engineer / Data Engineer building analytics-ready healthcare datasets
 Los Angeles, CA  
 
 ---
 
 ## About Me
 
-I’m a data engineer and analytics engineer focused on building **production-minded data systems**, **end-to-end ML pipelines**, and **analytics workflows** that solve real problems. My background bridges healthcare operations and machine learning, allowing me to design solutions that are technically sound and practically impactful.
-
-I value clarity, reproducibility, and engineering discipline. My goal is to deliver work that feels intentionally crafted and *mid-level*.
+I’m an Analytics Engineer / Data Engineer building analytics-ready healthcare datasets and automation-first SQL/Python pipelines. My work focuses on ETL/ELT workflows, data modeling, and data quality practices that support reliable reporting, decision-making, and downstream analytics.
 
 Current areas of focus:
 
