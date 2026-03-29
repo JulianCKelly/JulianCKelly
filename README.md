@@ -1,19 +1,14 @@
 # Julian Charlan Kelly  
-### Analytics Engineer / Data Engineer building analytics-ready healthcare datasets
+### Data Engineer / Analytics Engineer focused on reliable pipelines, governed data models, and decision-ready analytics
 Los Angeles, CA  
 
 ---
 
 ## About Me
 
-Analytics Engineer / Data Engineer building analytics-ready healthcare datasets and automation-first SQL/Python pipelines.
+I’m a data engineer / analytics engineer with a background in healthcare operations and analytics. I build reliable SQL/Python pipelines, analytics-ready data models, and decision-oriented workflows with an emphasis on data quality, business context, and maintainability.
 
-Current areas of focus:
-
-- Modular, production-style data pipelines  
-- Healthcare ML with emphasis on **recall and clinical safety**  
-- SQL + Python analytics engineering patterns  
-- Strengthening my technical stack through advanced certifications  
+I’m especially interested in systems where correctness matters: healthcare data, analytics engineering, operational reporting, and ML-adjacent pipelines. 
 
 ---
 
@@ -67,23 +62,13 @@ Repo: https://github.com/JulianCKelly/Northwind
 
 ---
 
-## Certifications (In Progress)
+## Current Focus
 
-- Google Advanced Data Analytics  
-- IBM Data Engineering  
-- Tableau Data Analyst  
+- Data pipeline design and maintainable transformation layers
+- Analytics engineering patterns in healthcare and operations contexts
+- Translating ambiguous business problems into testable, documented data workflows
 
----
-
-## What I’m Working Toward
-
-I’m pursuing roles in:
-
-- Analytics Engineering  
-- Data Engineering  
-- ML Engineering (applied / pipeline-focused)
-
-I want to contribute to teams building **data-driven healthcare solutions, cloud analytics pipelines, or ML-powered products** while continuing to grow my engineering depth.
+I want to contribute to teams building **data-driven healthcare solutions, cloud analytics pipelines, or ML-powered products** 
 
 ---
 
