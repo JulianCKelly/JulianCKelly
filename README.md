@@ -1,49 +1,52 @@
-# Julian Charlan Kelly  
+# Julian Charlan Kelly
 ### Data Engineer / Analytics Engineer focused on reliable pipelines, governed data models, and decision-ready analytics
-Los Angeles, CA  
+
+Los Angeles, CA
 
 ---
 
 ## About Me
 
-I’m a data engineer / analytics engineer with a background in healthcare operations and analytics. I build reliable SQL/Python pipelines, analytics-ready data models, and decision-oriented workflows with an emphasis on data quality, business context, and maintainability.
+I’m a data engineer / analytics engineer with a background in healthcare operations and analytics.
 
-I’m especially interested in systems where correctness matters: healthcare data, analytics engineering, operational reporting, and ML-adjacent pipelines. 
+I build reliable SQL/Python pipelines, analytics-ready data models, and decision-oriented workflows, with a focus on data quality, business context, and maintainability.
+
+I’m especially interested in systems where correctness matters: healthcare data, analytics engineering, operational reporting, and production-adjacent ML pipelines.
 
 ---
 
 ## Core Skills
 
-**Data Engineering & Analytics Engineering**  
-- Python, SQL, ETL/ELT workflows, data modeling  
-- PostgreSQL, SQLite, MongoDB, BigQuery  
-- Pipeline architecture, reproducible project structures  
-- CLI tools, Flask APIs, joblib model persistence  
+**Data Engineering & Analytics Engineering**
+- Pipeline design, transformation layers, and data modeling (SQL/Python)
+- PostgreSQL, SQLite, MongoDB, BigQuery
+- Reproducible project structures and maintainable workflows
+- APIs, CLI tooling, and model artifact handling
 
-**Machine Learning**  
-- Supervised ML (classification, risk prediction)  
-- Hyperparameter tuning (GridSearchCV)  
-- Evaluation: AUC, recall, precision/recall prioritization  
-- Visualization + interpretability (feature importance, thresholding)
+**Machine Learning**
+- Supervised models (classification, risk prediction)
+- Evaluation: AUC, recall, precision/recall tradeoffs
+- Model interpretation and thresholding for decision support
 
-**Visualization & Reporting**  
-- Matplotlib, Seaborn  
-- Tableau  
-- Technical writing and structured documentation  
+**Visualization & Reporting**
+- Matplotlib, Seaborn
+- Tableau
+- Technical documentation and structured reporting
 
 ---
 
 ## Featured Project
 
-### Healthcare Analytics — End-to-End Diabetes Risk Prediction Pipeline  
-A modular analytics engineering workflow built to simulate a real-world healthcare ML system.
+### Healthcare Analytics — End-to-End Diabetes Risk Prediction Pipeline
+
+End-to-end healthcare analytics pipeline simulating production-style ingestion, validation, feature engineering, and model evaluation, with emphasis on recall-sensitive decision support.
 
 **Highlights:**
-- Full pipeline: data ingestion → cleaning → modeling → evaluation  
-- Recall-optimized RandomForest model (clinical safety focused)  
-- `main.py` CLI for training and prediction  
-- Saved model artifacts, standardized reports, and visualizations  
-- Professional repo structure (src/, data/, models/, reports/)  
+- Full pipeline: ingestion → cleaning → modeling → evaluation  
+- Recall-optimized RandomForest model (clinical safety focus)  
+- CLI-based training and prediction workflow (`main.py`)  
+- Saved model artifacts, standardized outputs, and reporting  
+- Structured repository layout (src/, data/, models/, reports/)
 
 **Repository:**  
 https://github.com/JulianCKelly/healthcare-analytics
@@ -52,27 +55,27 @@ https://github.com/JulianCKelly/healthcare-analytics
 
 ## Additional Projects
 
-### Air Quality Cloud Dashboard (Flask + OpenAQ API)  
-A Flask web app providing real-time PM2.5 data from OpenAQ with persistent storage and refresh logic.  
+### Air Quality Cloud Dashboard (Flask + OpenAQ API)
+Flask app serving real-time PM2.5 data with persistent storage and refresh logic.
+
 Repo: https://github.com/JulianCKelly/air-quality-cloud-app
 
-### SQL Portfolio — Northwind Queries  
-Structured SQL exercises demonstrating joins, aggregations, CTEs, and analytical reasoning.  
+### SQL Portfolio — Northwind Queries
+SQL exercises covering joins, aggregations, CTEs, and analytical patterns.
+
 Repo: https://github.com/JulianCKelly/Northwind
 
 ---
 
 ## Current Focus
 
-- Data pipeline design and maintainable transformation layers
-- Analytics engineering patterns in healthcare and operations contexts
-- Translating ambiguous business problems into testable, documented data workflows
-
-I want to contribute to teams building **data-driven healthcare solutions, cloud analytics pipelines, or ML-powered products** 
+- Designing maintainable data pipelines and transformation layers  
+- Applying analytics engineering patterns in healthcare and operations  
+- Translating ambiguous business problems into testable, documented workflows  
 
 ---
 
 ## Contact
 
-**Location:** Los Angeles, CA  
-**LinkedIn:** https://www.linkedin.com/in/juliancharlankelly/
+Los Angeles, CA  
+LinkedIn: https://www.linkedin.com/in/juliancharlankelly/
