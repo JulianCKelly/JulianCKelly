@@ -8,11 +8,11 @@ Los Angeles, CA · [LinkedIn](https://www.linkedin.com/in/juliancharlankelly/)
 
 ## About
 
-I build data systems that hold up under scrutiny — clean staging layers, explicit grain definitions, defensible business logic, and documentation that explains *why*, not just *what*.
+I build data systems that can stand up to scrutiny: clean staging layers, clear grain definitions, defensible business logic, and documentation that explains *why*, not just *what*.
 
-My background spans cell & molecular biology, clinical operations, and healthcare analytics. I bring domain fluency to data work in healthcare and beyond: I understand what the data means, not just how to move it.
+My background includes cell and molecular biology, clinical operations, and healthcare analytics. That gives me domain fluency in healthcare and beyond. I understand what the data means, not just how to move it.
 
-I'm especially drawn to problems where correctness matters — FHIR-based clinical data, financial reporting pipelines, operational analytics — and where the difference between a working pipeline and a trustworthy one is worth caring about.
+I’m most interested in problems where correctness matters. That includes FHIR-based clinical data, financial reporting pipelines, and operational analytics. I care about the difference between a pipeline that runs and one that can actually be trusted.
 
 ---
 
@@ -64,7 +64,7 @@ Production-style pipeline ingesting raw SEC XBRL filings and producing a clean, 
 
 ### ClinicIQ Analytics Engineering
 
-Analytics engineering project for healthcare cost estimation featuring production-style ingestion, validation, and analytics-ready modeling with FHIR-informed schema design and data quality controls.
+Healthcare analytics engineering project demonstrating production-style patterns for ingesting, validating, and modeling synthetic EMR-style data into analytics-ready datasets using dbt, DuckDB, and FastAPI.
 
 Repo: https://github.com/JulianCKelly/cliniciq-analytics-engineering
 
@@ -80,6 +80,5 @@ Repo: https://github.com/JulianCKelly/icd-cpt-validator
 
 ## Current Focus
 
-- Designing maintainable data pipelines and transformation layers at the senior level
 - Applying analytics engineering patterns in healthcare and operational contexts
 - Translating ambiguous business problems into testable, documented, production-ready workflows
