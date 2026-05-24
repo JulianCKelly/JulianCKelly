@@ -1,6 +1,6 @@
 # Julian Charlan Kelly
 
-**Data Engineer / Analytics Engineer** focused on reliable pipelines, governed data models, and decision-ready analytics.
+**Senior Data Engineer** building reliable pipelines for healthcare and financial systems · Python | SQL
 
 Los Angeles, CA · [LinkedIn](https://www.linkedin.com/in/juliancharlankelly/)
 
@@ -8,11 +8,9 @@ Los Angeles, CA · [LinkedIn](https://www.linkedin.com/in/juliancharlankelly/)
 
 ## About
 
-I build data systems that can stand up to scrutiny: clean staging layers, clear grain definitions, defensible business logic, and documentation that explains *why*, not just *what*.
-
-My background includes cell and molecular biology, clinical operations, and healthcare analytics. That gives me domain fluency in healthcare and beyond. I understand what the data means, not just how to move it.
-
-I’m most interested in problems where correctness matters. That includes FHIR-based clinical data, financial reporting pipelines, and operational analytics. I care about the difference between a pipeline that runs and one that can actually be trusted.
+I build data systems that can stand up to scrutiny: clean staging layers, clear grain definitions, defensible business logic, and documentation that explains why, not just what.
+My path here wasn't linear. I started pre-med at Augusta University and made it through the hard science sequence: organic chemistry, biochemistry, microbiology, physics, before switching majors junior year. Then years in regulated clinical environments before moving into data engineering. Healthcare data isn't a domain I picked up for a role. The science came first.
+I care about correctness. FHIR-based clinical data, financial reporting pipelines, operational analytics. The work I'm drawn to is the kind where the difference between a pipeline that runs and one that can be trusted actually matters.
 
 ---
 
