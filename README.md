@@ -1,6 +1,6 @@
 # Julian Charlan Kelly
 
-**Senior Data Engineer** building reliable pipelines for healthcare and financial systems · Python | SQL
+**Senior Data Engineer** — FHIR, HL7, cross-border clinical data infrastructure · Snowflake · dbt · Python
 
 Los Angeles, CA · [LinkedIn](https://www.linkedin.com/in/juliancharlankelly/)
 
